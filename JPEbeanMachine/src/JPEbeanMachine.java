@@ -10,6 +10,8 @@ public class JPEbeanMachine {
 
 		// set up variables
 		Scanner input = new Scanner(System.in);
+		
+		// Wyatt adding something.
 
 
 		// ask user how many balls they want
