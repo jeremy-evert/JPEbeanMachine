@@ -1,4 +1,6 @@
+
 import java.util.Scanner;
+
 public class JPEbeanMachine {
 
 	public static void main(String[] args) {
@@ -67,6 +69,8 @@ public class JPEbeanMachine {
 
 		}
 		return binArray;
+
+
 
 	}
 
